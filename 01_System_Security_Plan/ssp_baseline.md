@@ -1,7 +1,7 @@
 # System Security Plan (SSP) - Baseline
 
 ## 1. System Overview
-* **System Name:** Cloud-Based Enterprise CRM & Data Warehouse
+* **System Name:** Mango Digital Banking & Ledger Platform
 * **System Identifier:** SYS-CRMW-01
 * **FIPS 199 Categorization:** 
   * Confidentiality: Moderate
