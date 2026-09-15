@@ -1,7 +1,7 @@
 # Plan of Action and Milestones (POA&M) Log
 
 ## Overview
-This log tracks identified security weaknesses, associated risk levels, corrective action plans, and milestone target dates for the Mango Digital Banking platform.
+This log tracks identified security weaknesses, associated risk levels, corrective action plans, and milestone target dates for the Gecko Digital Banking platform.
 
 ---
 
