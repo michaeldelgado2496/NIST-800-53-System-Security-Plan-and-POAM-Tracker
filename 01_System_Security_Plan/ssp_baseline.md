@@ -10,7 +10,7 @@
   * Overall Impact: High
 
 ## 2. System Environment & Boundaries
-* **Boundary Definition:** Includes AWS cloud infrastructure, EC2 application instances, RDS PostgreSQL database, and Okta identity provider integration.
+* **Boundary Definition:** Includes AWS cloud infrastructure, EC2 application instances, RDS PostgreSQL database, and AzureAD identity provider integration.
 * **Network Architecture:** Segmented into public-facing load balancers, private application subnets, and isolated database subnets.
 
 ## 3. Core NIST SP 800-53 Control Families
