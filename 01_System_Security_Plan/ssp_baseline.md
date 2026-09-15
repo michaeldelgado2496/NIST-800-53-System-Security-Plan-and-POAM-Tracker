@@ -1,4 +1,4 @@
-# System Security Plan (SSP) - Baseline
+# System Security Plan - Baseline
 
 ## 1. System Overview
 * **System Name:** Gecko Digital Banking & Ledger Platform
