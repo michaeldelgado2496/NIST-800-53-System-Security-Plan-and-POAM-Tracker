@@ -1,7 +1,7 @@
 # System Security Plan (SSP) - Baseline
 
 ## 1. System Overview
-* **System Name:** Mango Digital Banking & Ledger Platform
+* **System Name:** Gecko Digital Banking & Ledger Platform
 * **System Identifier:** SYS-BANK-01
 * **FIPS 199 Categorization:** 
   * Confidentiality: Medium
