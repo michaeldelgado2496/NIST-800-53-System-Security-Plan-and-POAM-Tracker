@@ -4,10 +4,10 @@
 * **System Name:** Mango Digital Banking & Ledger Platform
 * **System Identifier:** SYS-BANK-01
 * **FIPS 199 Categorization:** 
-  * Confidentiality: Moderate
-  * Integrity: Moderate
-  * Availability: Moderate
-  * Overall Impact: Moderate
+  * Confidentiality: High
+  * Integrity: High
+  * Availability: High
+  * Overall Impact: High
 
 ## 2. System Environment & Boundaries
 * **Boundary Definition:** Includes AWS cloud infrastructure, EC2 application instances, RDS PostgreSQL database, and Okta identity provider integration.
