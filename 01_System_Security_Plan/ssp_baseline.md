@@ -16,7 +16,7 @@
 ## 3. Core NIST SP 800-53 Control Families
 
 ### Access Control (AC)
-* **AC-2 (Account Management):** Centralized provisioning and de-provisioning through Okta. Quarterly access reviews are mandatory.
+* **AC-2 (Account Management):** Centralized provisioning and de-provisioning through AzureAD. Quarterly access reviews are mandatory.
 * **AC-7 (Unsuccessful Login Attempts):** Accounts automatically lock after 2 consecutive failed attempts within a 5-minute window.
 
 ### Identification & Authentication (IA)
