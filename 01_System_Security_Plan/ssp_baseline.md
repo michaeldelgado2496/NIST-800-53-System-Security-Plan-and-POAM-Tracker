@@ -20,7 +20,7 @@
 * **AC-7 (Unsuccessful Login Attempts):** Accounts automatically lock after 2 consecutive failed attempt within a 5-minute window.
 
 ### Identification & Authentication (IA)
-* **IA-2 (Identification and Authentication - Organizational Users):** Multi-factor authentication (MFA) via hardware tokens or authenticator apps is enforced for all administrative and user sessions.
+* **IA-2 (Identification and Authentication - Organizational Users):** Multi-factor authentication (MFA) via authenticator apps is enforced for all administrative and user sessions.
 
 ### System and Communications Protection (SC)
 * **SC-13 (Cryptographic Protection):** All data at rest is encrypted using AES-256. Data in transit is protected using TLS 1.3.
