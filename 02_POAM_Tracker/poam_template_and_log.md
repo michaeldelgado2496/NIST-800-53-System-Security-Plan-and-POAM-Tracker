@@ -1,4 +1,4 @@
-# Plan of Action and Milestones (POA&M) Log
+# Plan of Action and Milestones Log
 
 ## Overview
 This log tracks identified security weaknesses, associated risk levels, corrective action plans, and milestone target dates for the Gecko Digital Banking platform.
