@@ -4,7 +4,7 @@
 * **System Name:** Mango Digital Banking & Ledger Platform
 * **System Identifier:** SYS-BANK-01
 * **FIPS 199 Categorization:** 
-  * Confidentiality: High
+  * Confidentiality: Medium
   * Integrity: High
   * Availability: High
   * Overall Impact: High
