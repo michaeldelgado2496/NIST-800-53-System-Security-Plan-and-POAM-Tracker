@@ -2,7 +2,7 @@
 
 ## 1. System Overview
 * **System Name:** Mango Digital Banking & Ledger Platform
-* **System Identifier:** SYS-CRMW-01
+* **System Identifier:** SYS-BANK-01
 * **FIPS 199 Categorization:** 
   * Confidentiality: Moderate
   * Integrity: Moderate
