@@ -17,7 +17,7 @@
 
 ### Access Control (AC)
 * **AC-2 (Account Management):** Centralized provisioning and de-provisioning through Okta. Quarterly access reviews are mandatory.
-* **AC-7 (Unsuccessful Login Attempts):** Accounts automatically lock after 2 consecutive failed attempt within a 5-minute window.
+* **AC-7 (Unsuccessful Login Attempts):** Accounts automatically lock after 2 consecutive failed attempts within a 5-minute window.
 
 ### Identification & Authentication (IA)
 * **IA-2 (Identification and Authentication - Organizational Users):** Multi-factor authentication (MFA) via authenticator apps is enforced for all administrative and user sessions.
